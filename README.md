@@ -1,10 +1,10 @@
 # 9.6K_Single_Large_Image_Urdu_CLE_Color_DataSet_v3n  With  SSD Detector Trainings
 
 
-<br>
 ## 9.6K images synthetic Urdu Dataset
 --->>> The 9.6K dataset consisting of 9600 images (also corresponding annotations in attached .mat file) is most similar to the dataset we used in our earlier exmperiments/research (mentioned below) with few differences. Images are given in zipped format and annotation can be found in Training Folder (contains rectangluar/Quadrilateral coordinates for detection and angles for rotation prediction) . 
 
+<br>
 <br>
 <br>
 
