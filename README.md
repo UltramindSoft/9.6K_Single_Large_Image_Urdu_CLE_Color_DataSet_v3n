@@ -6,6 +6,7 @@
 
 <br>
 <br>
+
 ![19#_1_19_1_Angle=41_time_30-Aug-2020-06=32=27_Coors_91_104_102_91__س_](https://github.com/user-attachments/assets/34cf07ed-35b6-4df0-a3d9-b7b8abf149e0)
 ![9428#_4_28_3_Angle=-37_time_30-Aug-2020-07=28=04_Coors_113_119_113_113__ہیں_](https://github.com/user-attachments/assets/6f351105-f4c2-4a1a-8b25-6cb36523bfed)
 ![8445#_2_45_1_Angle=35_time_30-Aug-2020-07=22=20_Coors_110_150_113_110__نہیں_](https://github.com/user-attachments/assets/def09b0f-f0e4-49ab-90b6-1224c4a40fa1)
