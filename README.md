@@ -20,9 +20,9 @@
 <br>
 <br>
 <b>
-Syed Yasser Arafat, and Muhmmad Javed Iqbal. "Urdu-Text Detection and Recognition in Natural Scene Images Using Deep Learning." IEEE Access (2020).
+* Syed Yasser Arafat, and Muhmmad Javed Iqbal. "Urdu-Text Detection and Recognition in Natural Scene Images Using Deep Learning." IEEE Access (2020).
 </b>
 <br>
 <b>
-Syed Yasser Arafat, and Muhmmad Javed Iqbal. "Two Stream Deep Neural Network for Sequence-Based Urdu Ligature Recognition." IEEE Access 7 (2019): 159090-159099..
+* Syed Yasser Arafat, and Muhmmad Javed Iqbal. "Two Stream Deep Neural Network for Sequence-Based Urdu Ligature Recognition." IEEE Access 7 (2019): 159090-159099..
 </b>
